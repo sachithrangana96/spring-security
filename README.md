@@ -31,5 +31,5 @@ This project is a Spring Boot application that demonstrates how to implement JSO
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/spring-security/spring-boot-jwt-security.git
+git clone https://github.com/sachithrangana96/spring-security.git
 cd spring-security
